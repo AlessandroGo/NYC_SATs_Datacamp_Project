@@ -1,4 +1,4 @@
-The original dataframe from csv file:
+The original dataframe from csv file:  
 ![image](https://github.com/user-attachments/assets/7ae97597-0de4-4beb-a12b-ed7d816f0f37)  
 The best math schools taken by creating a dataframe of schools with columns school_name and average_math where average math is greater than 640 
 and then sort DF by average_math with ascending=False so that the top marks are shown first
